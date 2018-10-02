@@ -12,7 +12,7 @@ variable "repo" {
 # Configure the GitHub Provider
 provider "github" {
   token        = "${var.github_token}"
-  organization = "chavo4"
+  organization = "chavo9"
 }
 
 resource "github_repository" "example" {
