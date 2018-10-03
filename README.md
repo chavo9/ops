@@ -1,4 +1,5 @@
 #
+![master badge](https://travis-ci.org/chavo9/ops.svg?branch=master)
 
 https://github.com/settings/tokens
 
